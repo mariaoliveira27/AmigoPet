@@ -18,7 +18,7 @@
     </td>
     <td align="center">
       <div>
-        <img src="https://placehold.co/280x150/1e293b/38bdf8?text=AmigoPet" alt="Logo AmigoPet" width="500px" />
+        <img src="logo_amigopet.svg" alt="Logo AmigoPet" width="500px" />
       </div>
     </td>
   </tr> 
