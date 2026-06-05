@@ -11,15 +11,13 @@
 
 <table>
   <tr>
-    <td width="800px">
+    <td width="75%">
       <div align="justify">
         Este <b>README.md</b> apresenta a documentação técnica e estrutural do <b>AmigoPet</b>, um sistema de gestão integrado voltado para Organizações Não Governamentais (ONGs) de proteção animal. O principal objetivo da aplicação é <b>otimizar todo o ciclo de resgate, tratamento clínico e adoção</b>, unindo voluntários, veterinários, adotantes e administradores em um único ecossistema. Aqui você encontrará os detalhes da arquitetura, casos de uso, modelos de dados e diagramação UML do projeto. O <i>maior valor entregue</i> pelo AmigoPet é a <b>redução da burocracia operacional</b>, permitindo um rastreio médico preciso por prontuários e uma triagem ágil de candidatos, o que resulta diretamente no <b>aumento das taxas de adoção bem-sucedidas</b> e na garantia do bem-estar dos animais.
       </div>
     </td>
-    <td align="center">
-      <div>
-        <img src="logo_amigopet.svg" alt="Logo AmigoPet" width="1550px" />
-      </div>
+    <td width="25%" align="center">
+      <img src="logo_amigopet.svg" alt="Logo AmigoPet" width="100%" />
     </td>
   </tr> 
 </table>
