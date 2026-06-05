@@ -18,7 +18,7 @@
     </td>
     <td align="center">
       <div>
-        <img src="logo_amigopet.svg" alt="Logo AmigoPet" width="500px" />
+        <img src="logo_amigopet.svg" alt="Logo AmigoPet" width="1550px" />
       </div>
     </td>
   </tr> 
